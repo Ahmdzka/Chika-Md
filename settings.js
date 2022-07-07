@@ -28,7 +28,7 @@ global.ownernomer = '6285731625701' //ubah jadi nomor mu, note tanda ' gausah di
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Seno' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Seno-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'Irfan-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'Seno' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
@@ -41,7 +41,7 @@ global.email = 'ahmdzka0123m@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Seno-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.packname = '© Irfan-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.author = 'Seno' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
